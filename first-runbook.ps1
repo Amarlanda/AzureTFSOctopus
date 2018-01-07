@@ -1,1 +1,0 @@
-﻿Write-Output "hello world PS"
