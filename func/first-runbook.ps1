@@ -1,0 +1,1 @@
+﻿Write-host "hello world PS"
